@@ -123,6 +123,7 @@ li.navigation a {
 
 .box-text {
     font-size: 15px;
+    margin-top: 10px;
     margin-bottom: 60px;
     text-align: center;
 }
@@ -131,6 +132,7 @@ li.navigation a {
     display: flex;
     justify-content: center;
     background-color: #E5E7EB;
+    width: 100%;
 }
 
 .quote-box {
